@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # COMP2068-FINALAPP
+# i did this project by myself
+# for my react app you will be able to search for a recipe that has a ingredient that you are looking for, one example would be in the search bar type banana and it will show you recipes cordinated with banana
+# there are no lgin details to make it work
